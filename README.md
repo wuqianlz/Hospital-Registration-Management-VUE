@@ -1,4 +1,4 @@
-# registrationbackend
+# Hospital-Registration-Management-VUE
 
 ## Project setup
 ```
